@@ -1,0 +1,132 @@
+#navbar {
+    margin-top: 0px;
+    width: 100%;
+    background-color: #6c16c7;
+}
+/*logo styling*/
+#main-header{
+    width: 100%;
+    height: 60px;
+    background-color:#6c16c7;
+    float: left;
+    box-shadow: 10px 12px 40px 2px #42006f;
+}
+.fixed-nav{
+    position: fixed;
+}
+#menu-icon{
+    float: left;
+    margin: 20px;
+    margin-top: 12px;
+}
+#logo{
+    width: 250px;
+    margin-top: 2px;
+    float: left;
+}
+
+#logo:hover{
+    font-size: 47px;
+    transition: all .5 ease;
+}
+#logo a{
+    text-decoration: none;
+}
+#logo1{
+    color: #c5f809;
+    font-size: 45px;
+    font-weight: bold;
+    margin-left: 15px;   
+}
+#logo2{
+    color:#000000;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+/*Search area styling*/
+#nav-bar-btns{
+    
+    float: left;
+    padding: 20px;
+    margin-left: 50px;
+    margin-bottom: 15px;
+    margin-top: -12px;
+}
+.search-area{
+    box-align: center;
+    width: 650px;
+    height: 45px;
+    background-color: #6c16c7;
+    border: solid 3px #abaaaf;
+    border-radius: 3px;
+    color: #c5f809;
+    float: left;
+    padding-left: 10px;
+    font-size: 14pt;
+}
+.search-btn{
+    width: 100px;
+    height:45px;
+    border-radius: 3px;
+    border:solid 3px #abaaaf;
+    background-color: #6c16c7;
+    color: #c5f809;
+    margin-left: -100.5px;   
+    font-size: 13pt;
+    font-weight: bold;
+}
+.search-btn:active{
+    background-color: #ffffff;
+    color: #6c16c7;
+}
+
+/* styling for menu icons on the right */
+
+.cart-btn{
+    width: 100px;
+    height: 45px;
+    border-radius: 3px;
+    border:solid 3px #abaaaf;
+    background-color: #6c16c7;
+    margin-left: 10px;
+    color: #c5f809;
+    font-size:13pt;
+    font-weight: bold;
+}
+
+.cart-btn2{
+    width: 100px;
+    height: 45px;
+    border-radius: 3px;
+    border:solid 3px #abaaaf;
+    background-color: #6c16c7;
+    margin-left: 10px;
+    color: #c5f809;
+    font-size:13pt;
+    font-weight: bold;
+}
+.cart-btn:active{
+    background-color: #ffffff;
+    color: #6c16c7;
+    transition: all .5 ease;
+}
+
+.cart-btn2:active{
+    background-color: #ffffff;
+    color: #6c16c7;
+    transition: all .5 ease;
+
+}
+.cart-btn:hover{
+    background-color: #ffffff;
+    color: #6c16c7;
+    transition: all .5 ease;
+    f
+}
+
+.cart-btn2:hover{
+    background-color: #ffffff;
+    color: #6c16c7;
+    transition: all .5 ease;
+}

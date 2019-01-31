@@ -1,0 +1,10 @@
+@import url("nav.css");
+@import url("footer.css");
+
+html, body, li {
+    font-family: Tahoma, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
